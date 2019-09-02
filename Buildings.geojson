@@ -11,8 +11,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null,
-        "color": "blue"
+        "Name": null
       },
       "geometry": {
         "type": "Polygon",
