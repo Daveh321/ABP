@@ -7,7 +7,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "color": "#0f1a9b",
+        "color-fill": "#0f1a9b",
         "fill-opacity": 0.5,
         "Name": "null"
       },
