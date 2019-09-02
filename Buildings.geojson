@@ -4,8 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "blue",
-        "Name": "null"
+        "Name": "Micad"
       },
       "geometry": {
         "type": "Polygon",
