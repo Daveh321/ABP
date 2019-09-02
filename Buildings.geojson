@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        fillColor: "blue",
+        fillColor: 'blue',
         "Name": "null"
       },
       "geometry": {
