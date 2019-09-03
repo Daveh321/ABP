@@ -11,7 +11,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": "Boundary"
       },
       "geometry": {
         "type": "Polygon",
