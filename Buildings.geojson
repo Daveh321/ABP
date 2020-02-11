@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Micad"
+        "ID": "Micad"
         "color": "BLUE",
         "height": 3,
         "base_height": 0
