@@ -5,6 +5,9 @@
       "type": "Feature",
       "properties": {
         "Name": "Micad"
+        "color": "BLUE",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
