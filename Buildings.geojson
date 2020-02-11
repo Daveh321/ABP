@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "ID": "Micad"
-        "color": "BLUE",
+        "color": "blue",
         "height": 3,
         "base_height": 0
       },
