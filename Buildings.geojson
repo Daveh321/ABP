@@ -45,7 +45,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -83,7 +86,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -161,7 +167,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -199,7 +208,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -237,7 +249,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -275,7 +290,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -313,7 +331,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -351,7 +372,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -444,7 +468,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -482,7 +509,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -520,7 +550,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -558,7 +591,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -596,7 +632,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -719,7 +758,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -757,7 +799,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -915,7 +960,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -978,7 +1026,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1056,7 +1107,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1094,7 +1148,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1132,7 +1189,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1170,7 +1230,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1238,7 +1301,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1306,7 +1372,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1384,7 +1453,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1462,7 +1534,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1540,7 +1615,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1598,7 +1676,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1706,7 +1787,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1829,7 +1913,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1977,7 +2064,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2065,7 +2155,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "Name": null,
+		"color": "red",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
