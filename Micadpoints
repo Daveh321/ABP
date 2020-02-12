@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.36793,
+          53.398894
+        ]
+      },
+      "properties": {
+        "Name": "Micad Office"
+		"icon": "harbour"
+      }
+    }
+  ]
+}
